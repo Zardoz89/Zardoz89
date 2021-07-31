@@ -9,7 +9,7 @@ Sometimes I do other stuff for fun in C, Dlang and other languages.
 
 - 🏳️‍🌈♠ My Pronouns: He/Him
 - 📫 How to reach me: [@ZardoZ89](https://twitter.com/ZardoZ89)
-- :peach: Hobbies : 🔭 Astronomy, 🤖 sci-fi, 🚂 trains, 💾 retrocomputing, playing 👾 videogames & 🎲 boardgames, 🪄 RPG (D&D mainly)
+- 🍑 Hobbies : 🔭 Astronomy, 🤖 sci-fi, 🚂 trains, 💾 retrocomputing, playing 👾 videogames & 🎲 boardgames, 🪄 RPG (D&D mainly)
 
 
 <details>
