@@ -2,7 +2,7 @@
 
 ---
 
-✨ I'm a Full-Stack Developer working in Madrid, Spain. I manily work with Java for backend, and JavaScript (and HTML&CSS/SCSS) for frontend. 
+✨ I'm a Full-Stack Developer working in Madrid, Spain. I mainly work with Java for backend, and JavaScript (and HTML&CSS/SCSS) for frontend. 
 Sometimes I do other stuff for fun in C, Dlang and other languages.
 
 
