@@ -8,7 +8,7 @@ Sometimes I do other stuff for fun in C, Dlang and other languages.
 
 
 - 🏳️‍🌈♠ My Pronouns: He/Him
-- 📫 How to reach me: [@ZardoZ89](https://twitter.com/ZardoZ89)
+- 📫 How to reach me: https://linktr.ee/fantasmitaasex
 - 🍑 Hobbies : 🔭 Astronomy, 🤖 sci-fi, 🚂 trains, 💾 retrocomputing, playing 👾 videogames & 🎲 boardgames, 🪄 RPG (D&D mainly)
 
 
